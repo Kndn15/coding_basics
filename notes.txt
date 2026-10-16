@@ -1,0 +1,36 @@
+Statements:
+    1. Conditional Statements: 
+        Statements(block of code) will execute based on Condition
+        Types:
+        1. if Statement
+            syntax:
+            if(condition){
+                //if condition satisfy block of code will execute
+            }
+            
+        2. if-else Statement
+        syntax:
+         if(condition){
+                //if condition satisfy block of code will execute
+            }
+            else{
+                //if condition not satisfy block of code will execute
+            }
+
+        3. if-else-if ladder
+        if(condition){
+                //if condition satisfy block of code will execute
+            }
+            else if(condition){
+                //if condition satisfy block of code will execute
+            }
+            .
+            .
+            else{
+                //if all conditions not satisfy block of code will execute
+            }
+        4. switch Statement
+        5. Nested if Statement
+
+    2. Looping Statements:
+        Statements(block of code) will execute multiple times based on Condition
